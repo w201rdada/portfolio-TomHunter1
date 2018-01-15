@@ -1,14 +1,14 @@
-# A Decision Support System to Improve Goal based Self-Efficacy and decrease the Cost of Skill Acquisition {#Adjusting Life Goals to Data Science Compliance}
+# A Decision System to Improve Customized  Character Traits through Self-Efficacy and Grit Training {#GritDistribution}
 
 #### Keywords {-}
 
-Self-Efficacy, Grit, Bandura, Duckworth. Decision Support System.
+Self-Efficacy, Grit, Alfred Bandura, Angela Duckworth. Decision Support System.
 
-## A Marketplace of advice for goal achievement adjusting for personalility differences.  
+## Goal achievement adjusted for personalility differences.  
 
 Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
 
-## An App to Map Goals.
+## An App to Map Goals to sucess and to failure.
 
 The user supplies a personality assesment, and allows them in an app to set SMART based goals. Using text mining from advice threads, prior users, MORE EXAMPLES HERE, the app creates a series of high probability touch points suggesting ways the user can start now to accomplish these goals in a given time frame. The user can then turn on or off different touchpoints and see a probability estimate of how likely they will be able to achieve their goal without those touchpoints.
 
@@ -19,10 +19,10 @@ The user supplies a personality assesment, and allows them in an app to set SMAR
 knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 ```
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+## Users Improve their ability for goal setting and self achievement. 
+Tracks sucess and makes suggestions for course corrections. 
 
-## .
+## Possible unethical goals implementations- start small and build up.
 
-It's not feasible to track all goals- some could be highly unethical like (getting away with murder), accumpulating profiles of sucessful achievers could be difficult. Branded opporunties might 
+Life is meant to take long winding roadsIt's not feasible to track all goals- some could be highly unethical like (getting away with murder), accumpulating profiles of sucessful achievers could be difficult. Branded opporunties might 
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
