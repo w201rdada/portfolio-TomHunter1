@@ -1,4 +1,4 @@
-# A Decision System to Improve Customized  Character Traits through Self-Efficacy and Grit Training {#GritDistribution}
+# A Decision System to Improve Self-Efficacy and Grit while controlling for Character Differences {#GritDistribution}
 
 #### Keywords {-}
 
