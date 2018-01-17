@@ -1,4 +1,4 @@
-# A Decision System to Improve Self-Efficacy and Grit while controlling for Character Differences {#GritDistribution}
+# A Decision System for Self-Learning and Efficacy while Controlling for Personality Differences {#GritDistribution}
 
 #### Keywords {-}
 
@@ -6,23 +6,20 @@ Self-Efficacy, Grit, Alfred Bandura, Angela Duckworth. Decision Support System.
 
 ## Goal achievement adjusted for personalility differences.  
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Have you ever posted to a message thread searching for advice on a given topic? Dozens of strangers respond with their best throughts... but what is the actual confidence interval of you accomplishing your goal based on these recomendations. My application could follow up with users and start to quanitfy liklihood of sucess or best courses of action.
 
 ## An App to Map Goals to sucess and to failure.
 
-The user supplies a personality assesment, and allows them in an app to set SMART based goals. Using text mining from advice threads, prior users, MORE EXAMPLES HERE, the app creates a series of high probability touch points suggesting ways the user can start now to accomplish these goals in a given time frame. The user can then turn on or off different touchpoints and see a probability estimate of how likely they will be able to achieve their goal without those touchpoints.
-
-
+The user supplies a personality assesment, and sets SMART based goals. Using text mining from advice threads and prior users. The app creates a series of high probability touch points suggesting methods the user can start now to accomplish these goals in a given time frame. This creates a literal decision tree (Not a ML only). The user can then turn on or off different touchpoints or advice from the app and can see a probability estimate of how likely they will be able to achieve their goal given their selected touchpoints.
 
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
 knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 ```
-
 ## Users Improve their ability for goal setting and self achievement. 
-Tracks sucess and makes suggestions for course corrections. 
+Tracks success and makes suggestions for course corrections.  
 
-## Possible unethical goals implementations- start small and build up.
-
+## Possible unethical goals implementations- start small and build up.=
 Life is meant to take long winding roadsIt's not feasible to track all goals- some could be highly unethical like (getting away with murder), accumpulating profiles of sucessful achievers could be difficult. Branded opporunties might 
 
+# Idea #2: An Application for Manufacturing Companies to track Training Compliance 
