@@ -4,22 +4,33 @@
 
 Self-Efficacy, Grit, Alfred Bandura, Angela Duckworth. Decision Support System.
 
-## Goal achievement adjusted for personalility differences.  
+## Goal achievement adjusted for personality differences.  
 
-Have you ever posted to a message thread searching for advice on a given topic? Dozens of strangers respond with their best throughts... but what is the actual confidence interval of you accomplishing your goal based on these recomendations. My application could follow up with users and start to quanitfy liklihood of sucess or best courses of action.
+Have you ever posted to a message thread searching for advice on a goal? Dozens of strangers respond with their best ideas. The user is frantically searching for the best thread of advice, an unfortunate subject of an opaque experiment on the Wisdom of the Crowd. There’s no logic, no validation, just the best advice from the most eloquent randomly-assigned stranger. What if that stranger provides advice that doesn’t quite match your personality or motivations? (I.E. The body builder advising an amateur). My application gives a personality test, checks your motivations and goals. Then quantifies the likelihood of success between the today you, and a customized best course of SMART based action items to enable the user to accomplish the goal. Need someone to keep you committed? We can pair you with similar users aiming for the same goal and organize local meet-ups for you to interact.
 
-## An App to Map Goals to sucess and to failure.
+## An App to Map Goals to success and to failure.
 
-The user supplies a personality assesment, and sets SMART based goals. Using text mining from advice threads and prior users. The app creates a series of high probability touch points suggesting methods the user can start now to accomplish these goals in a given time frame. This creates a literal decision tree (Not a ML only). The user can then turn on or off different touchpoints or advice from the app and can see a probability estimate of how likely they will be able to achieve their goal given their selected touchpoints.
+The user supplies a personality assessment and chooses from a range of predefined goals along with the ability to define their own goals. Based on the results of the personality tests and previous users personality tests to that goal, use NLP on advice threads and prior users to determine the recommendation steps which best predicted the desired outcome. As an interface, the app creates a visualization of a decision tree with interactable probability touch points on the tree to see how completing or not completing their SMART goal steps influence their ultimate probability of success. 
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+Beyond setting and tracking the original goal, the app prompts follow ups, and issues notifications to encourage the user to make smaller steps to enabling GRIT principles as defined by Angela Duckworth or Self-Efficacy improvement as defined by Alfred Bandura. These are prescriptive analytics customized to the specific user and are designed to increase resilience and endurance when aiming toward long term goals by issuing small lifestyle prompts. 
+
+
 ## Users Improve their ability for goal setting and self achievement. 
-Tracks success and makes suggestions for course corrections.  
 
-## Possible unethical goals implementations- start small and build up.=
-Life is meant to take long winding roadsIt's not feasible to track all goals- some could be highly unethical like (getting away with murder), accumpulating profiles of sucessful achievers could be difficult. Branded opporunties might 
+Users have increased their ability to achieve their goals through data driven SMART goals.  
 
-# Idea #2: An Application for Manufacturing Companies to track Training Compliance 
+***
+
+## Feasibility, Likely Key Points and Data Needs:
+Assessments: Possible personality assessments go here. Major potential issue to address is how respondents to personality tests often change their response ex: Meyer’s Briggs personality tests have a high variability- find the source)
+
+Classification of Goals: Goals can be well defined but determining their ultimate completion might not be cut and dry- Address with SMART goals?   
+
+Timeliness of data: Goals can take a long time to complete. 
+
+Ethics?: Possible unethical goals implementations of users using the app to complete unethical goals…. Control the goals and limit the ability of the user not to search for specific items?
+
+Data Needs: 
+* Personality Assessments- Go find more. 
+* Data regarding completion / incompletion- potential biases in data were humans do not want admit they failed a goal. 
+* NLP on advice threads- Users then need to interact with this advice in order  
