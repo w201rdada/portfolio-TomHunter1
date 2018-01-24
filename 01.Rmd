@@ -17,11 +17,10 @@ Beyond setting and tracking the original goal, the app prompts follow ups, and i
 
 ## Users Improve their ability for goal setting and self achievement. 
 
-Users have increased their ability to achieve their goals through data driven SMART goals.  
+Users have increased their ability to achieve their goals through data driven SMART goals. Our team used predictive analytics to determine most likely advice given a user’s personality to complete a given goal. Accounting for this a system created new recommendations to accomplish the goal. Along the way, we used prescriptive analytics to nudge the user into developing more GRIT / Self-Efficacy, which is overall a strong predictor of goal completion, ultimately enabling the user to accomplish the tasks they set forward to do.     
 
 ***
-
-## Feasibility, Likely Key Points and Data Needs:
+## Feasibility, likely key points and data needs:
 Assessments: Possible personality assessments go here. Major potential issue to address is how respondents to personality tests often change their response ex: Meyer’s Briggs personality tests have a high variability- find the source)
 
 Classification of Goals: Goals can be well defined but determining their ultimate completion might not be cut and dry- Address with SMART goals?   
