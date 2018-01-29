@@ -20,14 +20,15 @@ Beyond setting and tracking the original goal, the app prompts follow ups, and i
 Users have increased their ability to achieve their goals through data driven SMART goals. Our team used predictive analytics to determine most likely advice given a user’s personality to complete a given goal. Accounting for this a system created new recommendations to accomplish the goal. Along the way, we used prescriptive analytics to nudge the user into developing more GRIT / Self-Efficacy, which is overall a strong predictor of goal completion, ultimately enabling the user to accomplish the tasks they set forward to do.     
 
 ***
-## Notes for Tom: Feasibility, key points and data required:
-Assessments: Possible personality assessments go here. Major potential issue to address is how respondents to personality tests often change their response ex: Meyer’s Briggs personality tests have a high variability- find the source)
+## Notes for Tom: Feasibility, Key Points and Data required:
+Assessments: List possible personality assessments here. 
+* Potential issue- Responses to personality tests often change even for one individual.  ex: Meyer’s Briggs personality tests have a high variability- find the source). Do we need to find a personality assesment with low variability.
 
-Classification of Goals: Goals can be well defined but determining their ultimate completion might not be cut and dry- Address with SMART goals?   
+Definition of a good goals: Goals can be well defined but determining their ultimate completion might not be cut and dry- Address with SMART goals?
 
-Timeliness of data: Goals can take a long time to complete. 
+Timeliness: Goals can take a long time to complete, should the app be short term focused?
 
-Ethics?: Possible unethical goals implementations of users using the app to complete unethical goals…. Control the goals and limit the ability of the user not to search for specific items?
+Ethics?: Is it possible there could be unethical goals people are going to use the tool for? Control the goals and limit the ability of the user not to search for specific items?
 
 Data Requirements: 
 * Personality Assessments- Go find more. 
