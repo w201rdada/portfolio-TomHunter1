@@ -20,7 +20,7 @@ Beyond setting and tracking the original goal, the app prompts follow ups, and i
 Users have increased their ability to achieve their goals through data driven SMART goals. Our team used predictive analytics to determine most likely advice given a user’s personality to complete a given goal. Accounting for this a system created new recommendations to accomplish the goal. Along the way, we used prescriptive analytics to nudge the user into developing more GRIT / Self-Efficacy, which is overall a strong predictor of goal completion, ultimately enabling the user to accomplish the tasks they set forward to do.     
 
 ***
-## Feasibility, likely key points and data needs:
+## Notes for Tom: Feasibility, key points and data required:
 Assessments: Possible personality assessments go here. Major potential issue to address is how respondents to personality tests often change their response ex: Meyer’s Briggs personality tests have a high variability- find the source)
 
 Classification of Goals: Goals can be well defined but determining their ultimate completion might not be cut and dry- Address with SMART goals?   
@@ -29,7 +29,7 @@ Timeliness of data: Goals can take a long time to complete.
 
 Ethics?: Possible unethical goals implementations of users using the app to complete unethical goals…. Control the goals and limit the ability of the user not to search for specific items?
 
-Data Needs: 
+Data Requirements: 
 * Personality Assessments- Go find more. 
 * Data regarding completion / incompletion- potential biases in data were humans do not want admit they failed a goal. 
 * NLP on advice threads- Users then need to interact with this advice in order  
