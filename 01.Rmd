@@ -12,6 +12,10 @@ Have you ever posted to a message thread searching for advice on a goal? Dozens 
 
 The user supplies a personality assessment and chooses from a range of predefined goals along with the ability to define their own goals. Based on the results of the personality test, previous users accomplishing this goal and the use of Natural Language Processing (NLP) on advice threads all of these componetns are weighted to determine the recommendation steps of the best predicted outcome. As an interface, the app creates a visualization of a decision tree with interactable probability touch points on the tree to see how completing or not completing each SMART goal influences the ultimate probability of success. 
 
+* Use this space to talk about the research behind SMART goals
+* Use this space to talk about the reserach behind Duckworth's Grit
+* Use this space to talk about how this is a classifcation model and a model like logisitic regression or other ML should be used.
+
 Beyond setting and tracking the original goal, the app prompts follow ups, and issues notifications to encourage the user to make smaller steps to enabling GRIT principles as defined by Angela Duckworth or Self-Efficacy improvement as defined by Alfred Bandura. These are prescriptive analytics customized to the specific user and are designed to increase resilience and endurance when aiming toward long term goals by issuing small lifestyle suggestions. 
 
 ## Users Improve their ability for goal setting and self achievement. 
