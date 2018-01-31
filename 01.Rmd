@@ -21,7 +21,7 @@ Users have increased their ability to achieve their goals through data driven SM
 
 ***
 ## Notes for Tom: Feasibility, Key Points and Data required:
-References Test: @saxenian1994
+References Test: [@saxenian1994]
 Assessments: List possible personality assessments here. 
 * Potential issue- Responses to personality tests often change even for one individual.  ex: Meyer’s Briggs personality tests have a high variability- find the source). Do we need to find a personality assesment with low variability.
 
