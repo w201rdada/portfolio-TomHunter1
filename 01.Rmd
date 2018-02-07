@@ -2,59 +2,44 @@
 
 #### Keywords {-}
 
-Self-Efficacy, Alfred Bandura, Grit, Angela Duckworth, Decision Support System.
+Self-Efficacy, Alfred Bandura, Grit, Angela Duckworth, Decision Support System, SMART Goals, Drucker
 
 ## Goal achievement adjusted for personality differences.  
 
-Have you ever posted to a message thread searching for advice on a goal? Dozens of strangers respond with their best ideas. The user frantically searching for the best thread of advice, an unfortunate subject of an opaque experiment on the wisdom of the crowd. Everything hinges on a stranger's rough opinions, there's no validation, just the best advice from the most eloquent randomly-assigneded stranger. Advice threads like Reddit or StackOverflow offer a forum for community validation, the best responses are upvoted and the worst comments are down-voted by the community. There's a challenge with this model, advice can help define the path to achievement of a goal, but it doesn't help a user stay the course, maintain engaged or follow up on their progress. 
-
-The big question this project seeks to tackle is to what measureable effect does personality or quality of adivce have in determining the completion of a goal. Using this as a base measurement, can the likelihood of success improve when a user is given NLP derived S.M.A.R.T. (Specific, Measureable, Achieveable, Relevant and Time Limited) styled goals and action items? Thirdly, to improve user engagement, can the application of Self-Efficacy, Grit and perseverance concepts written by researchers such as Angela Duckworth and Alfred Bandura enable a user to accomplish the goal and stay engaged relative to no advice at all. 
+Have you ever posted to a message thread searching for advice on a goal? Dozens of strangers respond with their best ideas. The user frantically searching for the best thread of advice, an unfortunate subject of an opaque experiment on the wisdom of the crowd. Everything hinges on a stranger's rough opinions, there's no validation, just the best advice from the most eloquent randomly-assigned stranger. Advice threads like Reddit or StackOverflow offer a forum for community validation, the best responses are upvoted and the worst comments are down-voted by the community. There's a challenge with this model, advice can help define the path to achievement of a goal, but it doesn't help a user stay the course, maintain engaged or follow up on their progress. This project aims to resolve these challenges by using NLP on advice threads to drive suggestions, data collection from study subject’s personality characteristics on goal completion and prescriptive analytics on user engagement via touchpoints to improve longitudinal completion of goals by creating a decision support system that makes recommendations based on characteristics unique to the user.. 
 
 ## Mapping Goals from success to failure.
 
-To limit the initial scope of study, to be qualified as a goal, it must be acquisition of a skill that can be tracked in a measureable outcome. For example, the fundamentals of a programming langauge, the freqency and duration of regular exercise are both measurable and quantifiable, via statistics measured, knowledge checks and, tests completed. 
+The big question this project seeks to tackle is given advice from threads to what measureable effect does personality have in determining the completion of a goal. Using this as a base measurement, can the likelihood of success improve when a user is given NLP derived by Drucker’s S.M.A.R.T. (Specific, Measurable, Achievable, Relevant and Time Limited) styled goals and action items? [@Drucker] Lastly, to improve user engagement, can the application of Self-Efficacy, Grit and perseverance concepts written by researchers such as Angela Duckworth and Alfred Bandura enable a user to accomplish the goal and stay engaged relative to no advice at all?
+
+To limit the initial scope of study, to be qualified as a goal, it must be acquisition of a skill that can be tracked in a measurable outcome. For example, the fundamentals of a programming language, the frequency and duration of regular exercise are both measurable and quantifiable, via statistics measured from  knowledge checks, aptitude tests or a fitbit or smart device. 
+
+Grit and Self-Efficacy are distinct but similar ideas. Duckworth describes her research as the balance between Self-Control and Grit, both ideas tied closely to predicting goal achievement through perseverance and completion of long term goal setting. [@Duckworth] Bandura introduced the idea of Self-Efficacy in 1977 an influential factor of cognitive motivation and goal setting through personal belief in self. [@Bandura]  Both of these ideas seem to play an important factor in motivation, self-belief, goal setting, perseverance and goal completion, which is why this is critical in application to be measured in the study. 
+
+## Project Plan
 
 There are three key priorities to stand-up the project:
-1) NLP on existing advice repositories: 
-Comments need to be to be qualified, and weighted by upvotes so the best responses are the most likely to be referred to a user. Once this is created, users need this content to be sourced to them for a given goal. If the scope is limited to the acquisition of a programming skill. This provides baseline statistics via a longintudinal aptitude study. 
 
-2) Completion of personality, Grit and Self-Efficacy tests:
+1) NLP from Advice Forums: 
 
-3) Implementaion of S.M.A.R.T and Grit Goals:
+Comments need to be to be qualified, weighted by upvotes so the best responses can be measured and referred to a user. Once this is created, this is considered user content sourced to them for a given goal. If the scope is limited to the acquisition of a programming skill, an example could be compared against a longitudinal aptitude study. 
 
+2) Grit and Self-Efficacy Scales:
 
+Using a combination of questions similar to Duckworth’s Grit Scale along with questions from Bandura’s Self-Efficacy research, the goal of the study is to hone in on particular character traits that may influence the user to diverge from goal completion. Besides a general understanding of possible causes of divergent behavior, this could be used to create prescriptive models attempting to prompt the user back on track to goal completion. 
 
+3) Customized S.M.A.R.T and Grit Goals:
 
+Based on the input from personality assessments listed above, modify the NLP content recommendations specific to the user. Historic information informs goals of similar users and tracking through measurable goals and or frequency of completion of goals helps predict which recomdentation actually help the user acquire their stated skill. 
 
-The user supplies a personality assessment and chooses from a range of predefined goals along with the ability to define their own goals. Based on the results of the personality test, previous users accomplishing this goal and the use of Natural Language Processing (NLP) on advice threads all of these componetns are weighted to determine the recommendation steps of the best predicted outcome. As an interface, the app creates a visualization of a decision tree with interactable probability touch points on the tree to see how completing or not completing each SMART goal influences the ultimate probability of success. 
+## How an App to monitor the study might work 
 
-* Use this space to talk about the research behind SMART goals
-* Use this space to talk about the reserach behind Duckworth's Grit
-* Use this space to talk about how this is a classifcation model and a model like logisitic regression or other ML should be used.
+The user supplies a personality assessment and chooses from a range of predefined goals along with the ability to define their own goals. Based on the results of the personality test, previous similar users and the use of Natural Language Processing (NLP) on advice threads are weighted to determine the predicted recommendation. 
 
-Beyond setting and tracking the original goal, the app prompts follow ups, and issues notifications to encourage the user to make smaller steps to enabling GRIT principles as defined by Angela Duckworth or Self-Efficacy improvement as defined by Alfred Bandura. These are prescriptive analytics customized to the specific user and are designed to increase resilience and endurance when aiming toward long term goals by issuing small lifestyle suggestions. 
+As an interface, the app creates a visualization of a plant growing into a tree with interactable touch points. When each touch point is clicked it allows the user to see their SMART goals, and how not completing any given step might influence the probability of success. 
 
-## Users Improve their ability for goal setting and self achievement. 
+Finally, the app prompts notifications to encourage the user to make smaller steps to enabling Grit / Self-Efficacy  principles or recommendations defined by Angela Duckworth or Alfred Bandura. These are prescriptive analytics are customized to the specific user and are designed to increase resilience and endurance when aiming toward long term goals by issuing small lifestyle suggestions. 
 
-Users have increased their ability to achieve their goals through data driven SMART goals. Our team used predictive analytics to determine most likely advice given a user’s personality to complete a given goal. Accounting for this system created new recommendations to accomplish the goal. Along the way, we used prescriptive analytics to nudge the user into developing more GRIT / Self-Efficacy, which is overall a strong predictor of goal completion, ultimately enabling the user to accomplish the tasks they set forward to do.     
+## Closing Comments
 
-***
-## Notes for Tom: Feasibility, Key Points and Data required:
-
-Assessments: List possible personality assessments here. 
-* Potential issue- Responses to personality tests often change even for one individual.  ex: Meyer’s Briggs personality tests have a high variability- find the source). Do we need to find a personality assesment with low variability.
-
-Definition of a good goals: Goals can be well defined but determining their ultimate completion might not be cut and dry- Address with SMART goals?
-
-Timeliness: Goals can take a long time to complete, should the app be short term focused?
-
-Ethics?: Is it possible there could be unethical goals people are going to use the tool for? Control the goals and limit the ability of the user not to search for specific items?
-
-Data Requirements: 
-* Personality Assessments- Go find more. 
-* Data regarding completion / incompletion- potential biases in data were humans do not want admit they failed a goal. 
-* NLP on advice threads- Users then need to interact with this advice in order  
-References Test:
-[@saxenian1994]
-
-[@saxenian_regional_1996]
+A decision support system, doesn’t take the role of replacing mentors, coaches or teachers. It is a way to provided targeted and customized results to a given user about choices to improve probability of success in goal achievement. This app uses predictive analytics to determine the best advice given a user’s personality and encouraged the development of  GRIT / Self-Efficacy key characteristics , which is overall a strong predictor of goal completion. 
