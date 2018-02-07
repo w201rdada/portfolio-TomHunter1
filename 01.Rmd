@@ -1,4 +1,4 @@
-# A Decision System for Self-Learning and Efficacy while Controlling for Personality Differences {#GritDistribution}
+## A Decision System for Self-Learning and Efficacy while Controlling for Personality Differences {#GritDistribution}
 
 #### Keywords {-}
 
@@ -10,11 +10,11 @@ Have you ever posted to a message thread searching for advice on a goal? Dozens 
 
 ## Mapping Goals from success to failure.
 
-The big question this project seeks to tackle is given advice from threads to what measureable effect does personality have in determining the completion of a goal. Using this as a base measurement, can the likelihood of success improve when a user is given NLP derived by Drucker’s S.M.A.R.T. (Specific, Measurable, Achievable, Relevant and Time Limited) styled goals and action items? [@Drucker] Lastly, to improve user engagement, can the application of Self-Efficacy, Grit and perseverance concepts written by researchers such as Angela Duckworth and Alfred Bandura enable a user to accomplish the goal and stay engaged relative to no advice at all?
+The big question this project seeks to tackle is given advice from threads to what measureable effect does personality have in determining the completion of a goal. Using this as a base measurement, can the likelihood of success improve when a user is given NLP derived by Drucker’s S.M.A.R.T. (Specific, Measurable, Achievable, Relevant and Time Limited) styled goals and action items? [@drucker_practice_1954] Lastly, to improve user engagement, can the application of Self-Efficacy, Grit and perseverance concepts written by researchers such as Angela Duckworth and Alfred Bandura enable a user to accomplish the goal and stay engaged relative to no advice at all?
 
 To limit the initial scope of study, to be qualified as a goal, it must be acquisition of a skill that can be tracked in a measurable outcome. For example, the fundamentals of a programming language, the frequency and duration of regular exercise are both measurable and quantifiable, via statistics measured from  knowledge checks, aptitude tests or a fitbit or smart device. 
 
-Grit and Self-Efficacy are distinct but similar ideas. Duckworth describes her research as the balance between Self-Control and Grit, both ideas tied closely to predicting goal achievement through perseverance and completion of long term goal setting. [@Duckworth] Bandura introduced the idea of Self-Efficacy in 1977 an influential factor of cognitive motivation and goal setting through personal belief in self. [@Bandura]  Both of these ideas seem to play an important factor in motivation, self-belief, goal setting, perseverance and goal completion, which is why this is critical in application to be measured in the study. 
+Grit and Self-Efficacy are distinct but similar ideas. Duckworth describes her research as the balance between Self-Control and Grit, both ideas tied closely to predicting goal achievement through perseverance and completion of long term goal setting. [@duckworth_grit:_2016 Bandura introduced the idea of Self-Efficacy in 1977 an influential factor of cognitive motivation and goal setting through personal belief in self. [@bandura_self-efficacy:_1997]  Both of these ideas seem to play an important factor in motivation, self-belief, goal setting, perseverance and goal completion, which is why this is critical in application to be measured in the study. 
 
 ## Project Plan
 
@@ -26,9 +26,9 @@ Comments need to be to be qualified, weighted by upvotes so the best responses c
 
 2) Grit and Self-Efficacy Scales:
 
-Using a combination of questions similar to Duckworth’s Grit Scale along with questions from Bandura’s Self-Efficacy research, the goal of the study is to hone in on particular character traits that may influence the user to diverge from goal completion. Besides a general understanding of possible causes of divergent behavior, this could be used to create prescriptive models attempting to prompt the user back on track to goal completion. 
+Using a combination of questions similar to Duckworth’s Grit Scale [@12-item_Grit_Scale] along with questions from Bandura’s Self-Efficacy research, the goal of the study is to hone in on particular character traits that may influence the user to diverge from goal completion. Besides a general understanding of possible causes of divergent behavior, this could be used to create prescriptive models attempting to prompt the user back on track to goal completion. 
 
-3) Customized S.M.A.R.T and Grit Goals:
+3) Customized S.M.A.R.T:
 
 Based on the input from personality assessments listed above, modify the NLP content recommendations specific to the user. Historic information informs goals of similar users and tracking through measurable goals and or frequency of completion of goals helps predict which recomdentation actually help the user acquire their stated skill. 
 
