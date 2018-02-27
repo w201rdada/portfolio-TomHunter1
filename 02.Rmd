@@ -1,15 +1,14 @@
-# Long Term Spatial Development and Valuation Estimations {#Theres-Gold-In-Dem-Hills}
+# Spatial Land Development and Valuation Estimations {#Speculation-Across-The-Nation}
 
 #### Keywords {-}
 
 Land Speculation, Spatial Analytics, Development
 
-## Saving Goals for the Chronically Ill
+## Land Development and Gentrification
 
-Across that water, I bought 40 acres of land almost 20  years ago, I just sold it for 65K and acre. 
+Urbanization, gentrification and development. According to the World Bank, the march of humanity reclaiming untamed lands has progressed at a steady rate [Citation Here]. Where rural lands 20 years agos, once bucolic oasis, are now densely populated urban hot spots with schools, access to amenities and local transportation. For Developers, homeowners and speculators, the future value of property remains at arms reach but has a massive impact on their ability to remain in business or save for retirement. 
 
-Urbanization and development has been happening for the past 40 years. This slow march of humanity is progressed and alongside it, an empire was built. This solution seeks to solve the current problem with land speculation. The current philosophy and mantra for For land speculation is to hold for decades. Using spatial analytics, old satellite imagery,  business data, Census data, and public Land record values. We are seeking to create an AI to calculate future expected land valuations specific tested time periods. 
-
+This solution seeks to create an AI based Deep Learning Model to evaluate statistics on immigration trends, land development historical access to amenities. In combination with using spatial analytics via historic satellite imagery,  business data, Census data, and public record land values. We are seeking to create an AI to calculate future expected land valuations specific tested time periods, the value added is to more accurately access land valuations. 
 
 ## Study Goals & Project Plan
 
@@ -34,3 +33,4 @@ data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causal
 ## Future Plans for the Study
 
 What we are hoping to do is create a highly accurate statistical model that will enable us to look into future speculation In new.This is still be executed only United States. 
+
