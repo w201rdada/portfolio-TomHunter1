@@ -1,6 +1,8 @@
+
 # Disaster Centric Real Estate Development Valuations {#Disaster-Properties}
 
 ![alt text](https://na.rdcpix.com/1058620997/7167b6e2bb9248cd79999e1295cf149ew-c0xd-w685_h860_q80.jpg)
+
 
 #### Keywords {-}
 
@@ -21,6 +23,7 @@ A headline flashes warning of the impending doom of the next category 5 hurrican
 Homes uncovered by flood insurance, yet impacted by severe property damage creates an interesting, but ethically vague opportunity. Since much of the economic damage can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations, causing a spike in forecloses, sales of property below the market value pre-hurricane. [@noauthor_climate_nodate]
 
 This essentially creates two meaningful opportunities:
+
 
 1. Angel Investing- An outside third party crates a short loan against a portion of the proceeds of the home’s future price. 
 2. Outright Ownership- A third party can purchase these properties outright, develop the land, rent the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and doing something the business already does on a day-to-day basis.
@@ -73,5 +76,3 @@ The ethical considerations of arbitraging real estate in disaster scenarios lead
 This tool could might be biased towards buying homes in low income neighborhoods, which are less likely to own flood insurance and are more likely to profitable just because the price of the home is low. There might not be a good way of addressing this. 
 
 Going forward, the application can be further built out to understand the long term impact of the economics of natural disasters on real estate. Disaster has a unique ability forcefully impact the results of normal pricing markets and the gap is ripe for a data driven company to stand-in and arbitrage the gaps. Recruitment of real estate investing companies and Angel Investors seeking to own portions of homes could help resolve the terrible implications of a Hurricane.
-
-
