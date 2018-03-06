@@ -1,36 +1,78 @@
-# Spatial Land Development and Valuation Estimations {#Speculation-Across-The-Nation}
+
+# Disaster Centric Real Estate Development Valuations {#Disaster-Properties}
+
+![alt text](https://na.rdcpix.com/1058620997/7167b6e2bb9248cd79999e1295cf149ew-c0xd-w685_h860_q80.jpg)
+
 
 #### Keywords {-}
 
-Land Speculation, Spatial Analytics, Development
+Natural Disasters, Land Speculation, Spatial Analytics, Development
 
-## Land Development and Gentrification
+## Opportunity in Crisis
 
-Urbanization, gentrification and development. According to the World Bank, the march of humanity reclaiming untamed lands has progressed at a steady rate [Citation Here]. Where rural lands 20 years agos, once bucolic oasis, are now densely populated urban hot spots with schools, access to amenities and local transportation. For Developers, homeowners and speculators, the future value of property remains at arms reach but has a massive impact on their ability to remain in business or save for retirement. 
+A headline flashes warning of the impending doom of the next category 5 hurricane barreling toward land near an urban Metropolitan area. In the short term, tens of thousands of people are predicted to be without power, water, food the necessities for survival. The hurricane's wake leaves short and long term catastrophic property damage due to water and wind, closure of financial ruin of local businesses or communities. To rebuild, economic development plans attempt to incentivize local businesses, property damage requiring new structures and the subsequent debt required to fund them put stress on the business to shake the impact. In the past decade, hurricanes Katrina, Harvey, Maria Sandy and Irma left in their wake an estimated 50 - 125 Billion dollars in damage per storm [@national_oceanic_and_atmospheric_administration_costliest_2018]. 
 
-This solution seeks to create an AI based Deep Learning Model to evaluate statistics on immigration trends, land development historical access to amenities. In combination with using spatial analytics via historic satellite imagery,  business data, Census data, and public record land values. We are seeking to create an AI to calculate future expected land valuations specific tested time periods, the value added is to more accurately access land valuations. 
+| RANK| NAME (IMPACTED AREA) | YEAR  | DAMAGE (U.S.) |
+| --- |-------------:| :-----:|:-----:|
+| 1 | KATRINA (SE FL, LA, MS) | 2005 |  $125,000,000,000|
+| 2 | HARVEY (TX, LA) | 2017 | $125,000,000,000|
+| 3 | MARIA (US VIRGIN ISLANDS) | 2018 | $80,000,000,000|
+| 4 | SANDY(Mid-Atlantic & NE US) | 2012 | 65,000,000,000| 
+| 5 | IRMA (FL) | 2017 | 50,000,000,000|
 
-## Study Goals & Project Plan
+Homes uncovered by flood insurance, yet impacted by severe property damage creates an interesting, but ethically vague opportunity. Since much of the economic damage can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations, causing a spike in forecloses, sales of property below the market value pre-hurricane. [@noauthor_climate_nodate]
 
-Outside the scope of this plan are to study other potential factor such as economic incentive plans,  tax incentives, state development plans, due to the highly subjective and opaque deals. 
+This essentially creates two meaningful opportunities:
 
-Biases:
-Potential pitfalls to lookout for Selection bias, Availability bias.
 
-Supervised Machine learning models will be fed with 40 years of historic US based land development data records, with the key goal of this data is to create AI that will forecast future urbanization based off past development and design an estimation price model for land with similar characteristics. 
+1. Angel Investing- An outside third party crates a short loan against a portion of the proceeds of the home’s future price. 
+2. Outright Ownership- A third party can purchase these properties outright, develop the land, rent the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and doing something the business already does on a day-to-day basis.
 
-Data to be used:
-Zillow
-Census Data
-Dunn and Bradd Street Data
-Historic Traffic Records
-Public Record Land valuation.
+So how do you identify where these opportunities at their maximum and most likelihood of payout. 
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+## Client, Study Goals & Project Plan:
+Client:
+This would be developed as a software as a service for real estate and angel investors. 
+
+Study Goals:
+This study attempts to assess the financial real estate valuation impact of Hurricanes and attempts to identify undervalued property post-devastation for the purposes of renovation and reinvestment. The plan to address this impact will follow the core assumptions of the argument which are listed below along with a plan on how to validate those assumptions. 
+
+Core Assumptions:
+1. Home values decline after the impact of a Hurricane. 
+    1. If they do decline, the impact follows a predictable pattern, caused by the impact of the storm. 
+    2. Any model of property damage can be inferred on future or independant Hurricane scenarios.
+2. Impacted US home values stabilize and increase 5-10 years after the impact of of a Hurricane.
+    3. Renovations do not cost more than the price of the home. 
+    4. Homes sold prior to and post Hurricanes are ‘Profitable’.
+3. Property Valuation and Financial Model: There are two suggested methods of opportunities when investing in disaster properties. Can a model suggesting the expected sale price of a property be validated as successful? 
+
+Assumption Validation & Project Plan:
+
+Assumption 1- A & B:
+* Using hurricanes since 2000, study landfall and determine the radius data from landfall needed to be collected to assess a material impact. 
+* Using Zillow’s API of historic property values and public record sales and purchases, zestimate values, study the before and after effects of the property market prior to and post Landfall. 
+* Determine if general rules can be applied between disaster areas regarding sale price of properties. 
+
+Assumption 2- A & B:
+* Using Zillow’s API, looking forward in prices, how long do home prices take to recover or rebound after disasters?
+* To what extent are the homes entirely remodeled due to water damage?
+* Are there general rules of thumbs or opportunities ‘flipping’ houses.
+
+Assumption 3:
+* Based on the findings of past data, can it successfully be inferred that our model can identify properties with the highest expected ROI?
+
+Data Required:
+
+* Zillow- Public Record Land Sales
+* NOAA- National Hurricane Center, Hurricane Data
+* NOAA- Satellite imagery near landfall of hurricane
+* National Flood Insurance- a list of data for who is insured against floods?
+
 
 ## Future Plans for the Study
 
-What we are hoping to do is create a highly accurate statistical model that will enable us to look into future speculation In new.This is still be executed only United States. 
+The ethical considerations of arbitraging real estate in disaster scenarios leads itself to a natural discussion. Ultimately, damage from hurricanes are likely to materially impact the sell value of a property. Homeowners are likely to need financial relief to rebuild, which leads itself to seemingly Faustian Pacts between buyers, lenders and owners. Nothing prevents a homeowner from being ripped off on uninsured home suffering from lack of flood insurance. It’s the homeowner who ultimately takes a loss on their property, so they aren't financially exploited. On the positive side, the tool could also increase the number of buyers in the market and lead to a net increase in demand for damaged properties.  
 
+This tool could might be biased towards buying homes in low income neighborhoods, which are less likely to own flood insurance and are more likely to profitable just because the price of the home is low. There might not be a good way of addressing this. 
+
+Going forward, the application can be further built out to understand the long term impact of the economics of natural disasters on real estate. Disaster has a unique ability forcefully impact the results of normal pricing markets and the gap is ripe for a data driven company to stand-in and arbitrage the gaps. Recruitment of real estate investing companies and Angel Investors seeking to own portions of homes could help resolve the terrible implications of a Hurricane.
