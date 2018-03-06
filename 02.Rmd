@@ -69,7 +69,7 @@ Data Required:
 * National Flood Insurance- a list of data for who is insured against floods?
 
 
-## Future Plans for the Study
+## Ethical Considerations, Biases and Future Plans
 
 The ethical considerations of arbitraging real estate in disaster scenarios leads itself to a natural discussion. Ultimately, damage from hurricanes are likely to materially impact the sell value of a property. Homeowners are likely to need financial relief to rebuild, which leads itself to seemingly Faustian Pacts between buyers, lenders and owners. Nothing prevents a homeowner from being ripped off on uninsured home suffering from lack of flood insurance. It’s the homeowner who ultimately takes a loss on their property, so they aren't financially exploited. On the positive side, the tool could also increase the number of buyers in the market and lead to a net increase in demand for damaged properties.  
 
