@@ -1,8 +1,7 @@
 # Disaster Centric Real Estate Development Valuations {#Disaster-Properties}
+
 ![alt text](https://na.rdcpix.com/1058620997/7167b6e2bb9248cd79999e1295cf149ew-c0xd-w685_h860_q80.jpg)
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://na.rdcpix.com/1058620997/7167b6e2bb9248cd79999e1295cf149ew-c0xd-w685_h860_q80.jpg') %>% stargazer::stargazer(type = 'html',title = 'Win McNamee/Getty Images')
-```
+
 #### Keywords {-}
 
 Natural Disasters, Land Speculation, Spatial Analytics, Development
