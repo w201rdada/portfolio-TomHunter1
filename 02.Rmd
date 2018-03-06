@@ -8,7 +8,7 @@ Natural Disasters, Land Speculation, Spatial Analytics, Development
 
 ## Opportunity in Crisis
 
-A headline flashes warning of the impending doom of the next category 5 hurricane barreling toward land near an urban Metropolitan area. In the short term, tens of thousands of people are predicted to be without power, water, food the necessities for survival. The hurricane's wake leaves short and long term catastrophic property damage due to water and wind, closure of financial ruin of local businesses or communities. To rebuild, economic development plans attempt to incentivize local businesses, property damage requiring new structures and the subsequent debt required to fund them put stress on the business to shake the impact. In the past decade, hurricanes Katrina, Harvey, Maria Sandy and Irma left in their wake an estimated 50 - 125 Billion dollars in damage per storm [Citation Here]. 
+A headline flashes warning of the impending doom of the next category 5 hurricane barreling toward land near an urban Metropolitan area. In the short term, tens of thousands of people are predicted to be without power, water, food the necessities for survival. The hurricane's wake leaves short and long term catastrophic property damage due to water and wind, closure of financial ruin of local businesses or communities. To rebuild, economic development plans attempt to incentivize local businesses, property damage requiring new structures and the subsequent debt required to fund them put stress on the business to shake the impact. In the past decade, hurricanes Katrina, Harvey, Maria Sandy and Irma left in their wake an estimated 50 - 125 Billion dollars in damage per storm [@national_oceanic_and_atmospheric_administration_costliest_2018]. 
 
 | RANK| NAME (IMPACTED AREA) | YEAR  | DAMAGE (U.S.) |
 | --- |-------------:| :-----:|:-----:|
@@ -18,7 +18,7 @@ A headline flashes warning of the impending doom of the next category 5 hurrican
 | 4 | SANDY(Mid-Atlantic & NE US) | 2012 | 65,000,000,000| 
 | 5 | IRMA (FL) | 2017 | 50,000,000,000|
 
-Homes uncovered by flood insurance, yet impacted by severe property damage creates an interesting, but ethically vague opportunity. Since much of the economic damage can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations, causing a spike in forecloses, sales of property below the market value pre-hurricane. 
+Homes uncovered by flood insurance, yet impacted by severe property damage creates an interesting, but ethically vague opportunity. Since much of the economic damage can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations, causing a spike in forecloses, sales of property below the market value pre-hurricane. [@noauthor_climate_nodate]
 
 This essentially creates two meaningful opportunities:
 
@@ -73,7 +73,5 @@ The ethical considerations of arbitraging real estate in disaster scenarios lead
 This tool could might be biased towards buying homes in low income neighborhoods, which are less likely to own flood insurance and are more likely to profitable just because the price of the home is low. There might not be a good way of addressing this. 
 
 Going forward, the application can be further built out to understand the long term impact of the economics of natural disasters on real estate. Disaster has a unique ability forcefully impact the results of normal pricing markets and the gap is ripe for a data driven company to stand-in and arbitrage the gaps. Recruitment of real estate investing companies and Angel Investors seeking to own portions of homes could help resolve the terrible implications of a Hurricane.
-
-http://fortune.com/2017/07/25/climate-change-insurance-industry/
 
 
