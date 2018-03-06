@@ -72,7 +72,7 @@ The ethical considerations of arbitraging real estate in disaster scenarios lead
 
 This tool could might be biased towards buying homes in low income neighborhoods, which are less likely to own flood insurance and are more likely to profitable just because the price of the home is low. There might not be a good way of addressing this. 
 
-Going forward, the application can be further built out to understand the long term impact of the economics of natural disasters on real estate. Disaster has a unique ability forcefully impact the results of normal pricing markets and the gap is ripe for a data driven company to stand-in and arbitrage the gaps.
+Going forward, the application can be further built out to understand the long term impact of the economics of natural disasters on real estate. Disaster has a unique ability forcefully impact the results of normal pricing markets and the gap is ripe for a data driven company to stand-in and arbitrage the gaps. Recruitment of real estate investing companies and Angel Investors seeking to own portions of homes could help resolve the terrible implications of a Hurricane.
 
 http://fortune.com/2017/07/25/climate-change-insurance-industry/
 
