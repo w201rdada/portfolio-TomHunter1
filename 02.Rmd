@@ -23,15 +23,18 @@ Homes uncovered by flood insurance, yet impacted by severe property damage creat
 This essentially creates two meaningful opportunities:
 
 1. Angel Investing- An outside third party crates a short loan against a portion of the proceeds of the home’s future price. 
-
 2. Outright Ownership- A third party can purchase these properties outright, develop the land, rent the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and doing something the business already does on a day-to-day basis.
 
 So how do you identify where these opportunities at their maximum and most likelihood of payout. 
 
-## Study Goals & Project Plan:
+## Client, Study Goals & Project Plan:
+Client:
+This would be developed as a software as a service for real estate and angel investors. 
+
+Study Goals:
+This study attempts to assess the financial real estate valuation impact of Hurricanes and attempts to identify undervalued property post-devastation for the purposes of renovation and reinvestment. The plan to address this impact will follow the core assumptions of the argument which are listed below along with a plan on how to validate those assumptions. 
 
 Core Assumptions:
-
 1. Home values decline after the impact of a Hurricane. 
     1. If they do decline, the impact follows a predictable pattern, caused by the impact of the storm. 
     2. Any model of property damage can be inferred on future or independant Hurricane scenarios.
@@ -63,12 +66,14 @@ Data Required:
 * NOAA- Satellite imagery near landfall of hurricane
 * National Flood Insurance- a list of data for who is insured against floods?
 
-Client:
-This would be developed as a software as a service for real estate and angel investors. 
 
 ## Future Plans for the Study
 
-What we are hoping to do is create a highly accurate statistical model that will enable us to look into future speculation In new.This is still be executed only United States. 
+The ethical considerations of arbitraging real estate in disaster scenarios leads itself to a natural discussion. Ultimately, damage from hurricanes are likely to materially impact the sell value of a property. Homeowners are likely to need financial relief to rebuild, which leads itself to seemingly Faustian Pacts between buyers, lenders and owners. Nothing prevents a homeowner from being ripped off on uninsured home suffering from lack of flood insurance. It’s the homeowner who ultimately takes a loss on their property, so they aren't financially exploited. On the positive side, the tool could also increase the number of buyers in the market and lead to a net increase in demand for damaged properties.  
+
+This tool could might be biased towards buying homes in low income neighborhoods, which are less likely to own flood insurance and are more likely to profitable just because the price of the home is low. There might not be a good way of addressing this. 
+
+Going forward, the application can be further built out to understand the long term impact of the economics of natural disasters on real estate. Disaster has a unique ability forcefully impact the results of normal pricing markets and the gap is ripe for a data driven company to stand-in and arbitrage the gaps.
 
 http://fortune.com/2017/07/25/climate-change-insurance-industry/
 
