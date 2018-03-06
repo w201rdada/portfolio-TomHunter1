@@ -11,50 +11,79 @@ Natural Disasters, Land Speculation, Spatial Analytics, Development
 A headline flashes warning of the impending doom of the next category 5 hurricane barreling toward land near an urban Metropolitan area. In the short term, tens of thousands of people are predicted to be without power, water, food the necessities for survival. The hurricane's wake leaves short and long term catastrophic property damage due to water and wind, closure of financial ruin of local businesses or communities. To rebuild, economic development plans attempt to incentivize local businesses, property damage requiring new structures and the subsequent debt required to fund them put stress on the business to shake the impact. In the past decade, hurricanes Katrina, Harvey, Maria Sandy and Irma left in their wake an estimated 50 - 125 Billion dollars in damage per storm [Citation Here]. 
 
 RANK | NAME | YEAR | DAMAGE (U.S.) 
+
 1 | KATRINA (SE FL, LA, MS) | 2005 |  $125,000,000,000 
+
 2 | HARVEY (TX, LA) | 2017 | $125,000,000,000 
+
 3 | MARIA (US VIRGIN ISLANDS) | 2018 | $80,000,000,000
+
 4 | SANDY(Mid-Atlantic & NE US) | 2012 | 65,000,000,000 
+
 5 | IRMA (FL) | 2017 | 50,000,000,000
 
 Homes uncovered by flood insurance, yet impacted by severe property damage creates an interesting, but ethically vague opportunity. Since much of the economic damage can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations, causing a spike in forecloses, sales of property below the market value pre-hurricane. 
 
 This essentially creates two meaningful opportunities:
-Angel Investing- An outside third party crates a short loan against a portion of the proceeds of the home’s future price. 
-Outright Ownership- A third party can purchase these properties outright, develop the land, rent the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and doing something the business already does on a day-to-day basis.
+
+1. Angel Investing- An outside third party crates a short loan against a portion of the proceeds of the home’s future price. 
+
+2. Outright Ownership- A third party can purchase these properties outright, develop the land, rent the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and doing something the business already does on a day-to-day basis.
 
 So how do you identify where these opportunities at their maximum and most likelihood of payout. 
 
 ## Study Goals & Project Plan:
 
 Core Assumptions:
-Home values decline after the impact of a Hurricane. 
-If they do decline, the impact follows a predictable pattern, caused by the impact of the storm. 
-Any model of property damage can be inferred on future or independant Hurricane scenarios.
-Impacted US home values stabilize and increase 5-10 years after the impact of of a Hurricane.
-Renovations do not cost more than the price of the home. 
-Homes sold prior to and post Hurricanes are ‘Profitable’.
-Property Valuation and Financial Model: There are two suggested methods of opportunities when investing in disaster properties. Can a model suggesting the expected sale price of a property be validated as successful? 
+
+1. Home values decline after the impact of a Hurricane. 
+
+    1. If they do decline, the impact follows a predictable pattern, caused by the impact of the storm. 
+
+    2. Any model of property damage can be inferred on future or independant Hurricane scenarios.
+
+2. Impacted US home values stabilize and increase 5-10 years after the impact of of a Hurricane.
+
+    3. Renovations do not cost more than the price of the home. 
+
+    4. Homes sold prior to and post Hurricanes are ‘Profitable’.
+
+3. Property Valuation and Financial Model: There are two suggested methods of opportunities when investing in disaster properties. Can a model suggesting the expected sale price of a property be validated as successful? 
 
 Assumption Validation & Project Plan:
+
 Assumption 1- A & B:
-Using hurricanes since 2000, study landfall and determine the radius data from landfall needed to be collected to assess a material impact. 
-Using Zillow’s API of historic property values and public record sales and purchases, zestimate values, study the before and after effects of the property market prior to and post Landfall. 
-Determine if general rules can be applied between disaster areas regarding sale price of properties. 
+
+* Using hurricanes since 2000, study landfall and determine the radius data from landfall needed to be collected to assess a material impact. 
+
+* Using Zillow’s API of historic property values and public record sales and purchases, zestimate values, study the before and after effects of the property market prior to and post Landfall. 
+
+* Determine if general rules can be applied between disaster areas regarding sale price of properties. 
+
 Assumption 2- A & B:
-Using Zillow’s API, looking forward in prices, how long do home prices take to recover or rebound after disasters?
-To what extent are the homes entirely remodeled due to water damage?
-Are there general rules of thumbs or opportunities ‘flipping’ houses.
+
+* Using Zillow’s API, looking forward in prices, how long do home prices take to recover or rebound after disasters?
+
+* To what extent are the homes entirely remodeled due to water damage?
+
+* Are there general rules of thumbs or opportunities ‘flipping’ houses.
+
 Assumption 3:
-Based on the findings of past data, can it successfully be inferred that our model can identify properties with the highest expected ROI?
+
+* Based on the findings of past data, can it successfully be inferred that our model can identify properties with the highest expected ROI?
 
 Data Required:
-Zillow- Public Record Land Sales
-NOAA- National Hurricane Center, Hurricane Data
-NOAA- Satellite imagery near landfall of hurricane
-National Flood Insurance- a list of data for who is insured against floods?
+
+* Zillow- Public Record Land Sales
+
+* NOAA- National Hurricane Center, Hurricane Data
+
+* NOAA- Satellite imagery near landfall of hurricane
+
+* National Flood Insurance- a list of data for who is insured against floods?
 
 Client:
+
 This would be developed as a software as a service for real estate and angel investors. 
 
 ## Future Plans for the Study
@@ -62,4 +91,5 @@ This would be developed as a software as a service for real estate and angel inv
 What we are hoping to do is create a highly accurate statistical model that will enable us to look into future speculation In new.This is still be executed only United States. 
 
 http://fortune.com/2017/07/25/climate-change-insurance-industry/
+
 
