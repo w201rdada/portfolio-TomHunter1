@@ -56,7 +56,6 @@ Assumption 2- A & B:
 * Are there general rules of thumbs or opportunities ‘flipping’ houses.
 
 Assumption 3:
-
 * Based on the findings of past data, can it successfully be inferred that our model can identify properties with the highest expected ROI?
 
 Data Required:
