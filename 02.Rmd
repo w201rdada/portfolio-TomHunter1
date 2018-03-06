@@ -1,36 +1,66 @@
-# Long Term Spatial Development and Valuation Estimations {#Theres-Gold-In-Dem-Hills}
-
-#### Keywords {-}
-
-Land Speculation, Spatial Analytics, Development
-
-## Saving Goals for the Chronically Ill
-
-Across that water, I bought 40 acres of land almost 20  years ago, I just sold it for 65K and acre. 
-
-Urbanization and development has been happening for the past 40 years. This slow march of humanity is progressed and alongside it, an empire was built. This solution seeks to solve the current problem with land speculation. The current philosophy and mantra for For land speculation is to hold for decades. Using spatial analytics, old satellite imagery,  business data, Census data, and public Land record values. We are seeking to create an AI to calculate future expected land valuations specific tested time periods. 
-
-
-## Study Goals & Project Plan
-
-Outside the scope of this plan are to study other potential factor such as economic incentive plans,  tax incentives, state development plans, due to the highly subjective and opaque deals. 
-
-Biases:
-Potential pitfalls to lookout for Selection bias, Availability bias.
-
-Supervised Machine learning models will be fed with 40 years of historic US based land development data records, with the key goal of this data is to create AI that will forecast future urbanization based off past development and design an estimation price model for land with similar characteristics. 
-
-Data to be used:
-Zillow
-Census Data
-Dunn and Bradd Street Data
-Historic Traffic Records
-Public Record Land valuation.
+# Disaster Centric Real Estate Development Valuations {#Disaster-Properties}
 
 ```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
+data.table::fread('https://na.rdcpix.com/1058620997/7167b6e2bb9248cd79999e1295cf149ew-c0xd-w685_h860_q80.jpg') %>% stargazer::stargazer(type = 'html',title = 'Win McNamee/Getty Images')
 ```
+#### Keywords {-}
+
+Natural Disasters, Land Speculation, Spatial Analytics, Development
+
+## Opportunity in Crisis
+
+A headline flashes warning of the impending doom of the next category 5 hurricane barreling toward land near an urban Metropolitan area. In the short term, tens of thousands of people are predicted to be without power, water, food the necessities for survival. The hurricane's wake leaves short and long term catastrophic property damage due to water and wind, closure of financial ruin of local businesses or communities. To rebuild, economic development plans attempt to incentivize local businesses, property damage requiring new structures and the subsequent debt required to fund them put stress on the business to shake the impact. In the past decade, hurricanes Katrina, Harvey, Maria Sandy and Irma left in their wake an estimated 50 - 125 Billion dollars in damage per storm [Citation Here]. 
+
+RANK | NAME | YEAR | DAMAGE (U.S.) 
+1 | KATRINA (SE FL, LA, MS) | 2005 |  $125,000,000,000 
+2 | HARVEY (TX, LA) | 2017 | $125,000,000,000 
+3 | MARIA (US VIRGIN ISLANDS) | 2018 | $80,000,000,000
+4 | SANDY(Mid-Atlantic & NE US) | 2012 | 65,000,000,000 
+5 | IRMA (FL) | 2017 | 50,000,000,000
+
+Homes uncovered by flood insurance, yet impacted by severe property damage creates an interesting, but ethically vague opportunity. Since much of the economic damage can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations, causing a spike in forecloses, sales of property below the market value pre-hurricane. 
+
+This essentially creates two meaningful opportunities:
+Angel Investing- An outside third party crates a short loan against a portion of the proceeds of the home’s future price. 
+Outright Ownership- A third party can purchase these properties outright, develop the land, rent the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and doing something the business already does on a day-to-day basis.
+
+So how do you identify where these opportunities at their maximum and most likelihood of payout. 
+
+## Study Goals & Project Plan:
+
+Core Assumptions:
+Home values decline after the impact of a Hurricane. 
+If they do decline, the impact follows a predictable pattern, caused by the impact of the storm. 
+Any model of property damage can be inferred on future or independant Hurricane scenarios.
+Impacted US home values stabilize and increase 5-10 years after the impact of of a Hurricane.
+Renovations do not cost more than the price of the home. 
+Homes sold prior to and post Hurricanes are ‘Profitable’.
+Property Valuation and Financial Model: There are two suggested methods of opportunities when investing in disaster properties. Can a model suggesting the expected sale price of a property be validated as successful? 
+
+Assumption Validation & Project Plan:
+Assumption 1- A & B:
+Using hurricanes since 2000, study landfall and determine the radius data from landfall needed to be collected to assess a material impact. 
+Using Zillow’s API of historic property values and public record sales and purchases, zestimate values, study the before and after effects of the property market prior to and post Landfall. 
+Determine if general rules can be applied between disaster areas regarding sale price of properties. 
+Assumption 2- A & B:
+Using Zillow’s API, looking forward in prices, how long do home prices take to recover or rebound after disasters?
+To what extent are the homes entirely remodeled due to water damage?
+Are there general rules of thumbs or opportunities ‘flipping’ houses.
+Assumption 3:
+Based on the findings of past data, can it successfully be inferred that our model can identify properties with the highest expected ROI?
+
+Data Required:
+Zillow- Public Record Land Sales
+NOAA- National Hurricane Center, Hurricane Data
+NOAA- Satellite imagery near landfall of hurricane
+National Flood Insurance- a list of data for who is insured against floods?
+
+Client:
+This would be developed as a software as a service for real estate and angel investors. 
 
 ## Future Plans for the Study
 
 What we are hoping to do is create a highly accurate statistical model that will enable us to look into future speculation In new.This is still be executed only United States. 
+
+http://fortune.com/2017/07/25/climate-change-insurance-industry/
+
