@@ -10,7 +10,7 @@ Natural Disasters, Land Speculation, Spatial Analytics, Development
 
 A headline flashes warning of the impending doom of the next category 5 hurricane barreling toward land near an urban Metropolitan area. In the short term, tens of thousands of people are predicted to be without power, water, food the necessities for survival. The hurricane's wake leaves short and long term catastrophic property damage due to water and wind, closure of financial ruin of local businesses or communities. To rebuild, economic development plans attempt to incentivize local businesses, property damage requiring new structures and the subsequent debt required to fund them put stress on the business to shake the impact. In the past decade, hurricanes Katrina, Harvey, Maria Sandy and Irma left in their wake an estimated 50 - 125 Billion dollars in damage per storm [Citation Here]. 
 
-| RANK| NAME  | YEAR  | DAMAGE (U.S.) |
+| RANK| NAME (IMPACTED AREA) | YEAR  | DAMAGE (U.S.) |
 | --- |-------------:| :-----:|:-----:|
 | 1 | KATRINA (SE FL, LA, MS) | 2005 |  $125,000,000,000|
 | 2 | HARVEY (TX, LA) | 2017 | $125,000,000,000|
