@@ -22,11 +22,13 @@ RANK | NAME | YEAR | DAMAGE (U.S.)
 
 5 | IRMA (FL) | 2017 | 50,000,000,000
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| RANK| NAME  | YEAR  | DAMAGE (U.S.) |
+| --- |:-------------:| :-----:|:-----:|
+| 1 | KATRINA (SE FL, LA, MS) | 2005 |  $125,000,000,000|
+| 2 | HARVEY (TX, LA) | 2017 | $125,000,000,000|
+| 3 | MARIA (US VIRGIN ISLANDS) | 2018 | $80,000,000,000|
+| 4 | SANDY(Mid-Atlantic & NE US) | 2012 | 65,000,000,000| 
+| 5 | IRMA (FL) | 2017 | 50,000,000,000|
 
 Homes uncovered by flood insurance, yet impacted by severe property damage creates an interesting, but ethically vague opportunity. Since much of the economic damage can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations, causing a spike in forecloses, sales of property below the market value pre-hurricane. 
 
