@@ -20,14 +20,19 @@ A headline flashes, warning of the impending doom of the next category 5 hurrica
 | 4 | SANDY(Mid-Atlantic & NE US) | 2012 | 65,000,000,000| 
 | 5 | IRMA (FL) | 2017 | 50,000,000,000|
 
-Homes impacted by severe property damage, but not covered by flood insurance, creates an interesting but ethically vague opportunity. Since much of the economic impact can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations. This causes a spike in forecloses and sales of property below the market value pre-hurricane. [@noauthor_climate_nodate]
+Homes impacted by severe property damage, and not covered by flood insurance, creates an interesting but ethically vague opportunity. Since much of the economic impact can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations. This causes a spike in forecloses and sales of property below the market value pre-hurricane. [@noauthor_climate_nodate] Essentially creating three meaningul  opportunities: 
 
-Essentially createing two meaningful opportunities:
-
-1. Angel Investing - An outside third party creates a short-term loan against a portion of the proceeds of the home’s future price.
+1. Angel Investing - An outside third party creates a short-term loan against a portion of the proceeds of the home’s future price. 
 2. Outright Ownership - A third party purchases properties outright, develops or renovates the land, rents the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and maintaining existing operations.
+3. New Lending - A third party extends a second line of capital to rebuild, which is collateralized against the building. The best scenario would be the mortgage issuer who has a stake in the having the original mortgage paid off and the worst case scenario would be a predatory lending agency who offers a high risk second morgartgage. 
 
-Two key demographics of investors who might be potential clients for a service like this are real estate investment companies, real estate investment funds,  or angel investors.
+Two key demographics of potential clients for this service are real estate investment companies, real estate investment funds, angel investors, issuing mortgage companies land speculators interested in holding properties for a 5-10 year period.
+
+It's important to note the stakeholders and their impact by this solution: 
+* The Homeowners - Impacted by the storm, this product has the potential to impact their net worth and ultimately the sell price of their property. 
+* The City or State - Are economically incentivized to return land and local economy to post-storm levels as a humanitarian and fiscal effort to raise lost tax revenue. 
+* The Original Mortgage Issuer - Although, likely to have been packaged and resold. The issuer essentially created a loan now with a low probability of repayment, impacting their reputation and their business.
+* An Outside Investor - Outside investors have the largest opportunity, with capital to flood the market they can essentially invest in crisis.
 
 How do you identify where these opportunities at their maximum and most likelihood of payout? 
 
@@ -35,7 +40,7 @@ How do you identify where these opportunities at their maximum and most likeliho
 
 This study attempts to assess the financial real estate valuation of hurricanes and identify undervalued property post-devastation for the purposes of renovation and reinvestment. The plan to address this impact will follow the listed core assumptions laid out in the Project Plan, along with best starting points to validate those assumptions. 
 
-The general theory is as follows, home values decline after the impact of a major Hurricane due to wind, water and property damage. Catastropic damage to homes uncovered by National Flood Insurance are typically under-valued due to the owners lack of financial resources to rebuild, repair or remortgage and the corresponding damage. Next, by examining public record, the same homes impacted by the storm have recovered their value or a significant portion of their prior estimated list price, post-storm. By using these as features, and the extent of the damage, a ML model could successfully predict homes expected to be the most undervalued and the most likely to recover their value post-storm. 
+The general theory is as follows, home values decline after the impact of a major Hurricane due to wind, water and property damage. Catastrophic damage to homes uncovered by National Flood Insurance are typically under-valued due to the owners lack of financial resources to rebuild, repair or remortgage and the corresponding damage. Next, by examining public record, the same homes impacted by the storm have recovered their value or a significant portion of their prior estimated list price, post-storm. By using these as features, and the extent of the damage, a ML model could successfully predict homes expected to be the most undervalued and the most likely to recover their value post-storm. 
 
 Project Plan:
 
