@@ -1,4 +1,4 @@
-#!/bin/sh
+git push origin master#!/bin/sh
 
 # put your info here and uncomment so git (and GitHub) knows who your commits belong to!
 git config --global user.email "ethunter90@gmail.com"
