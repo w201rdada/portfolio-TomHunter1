@@ -33,11 +33,12 @@ How do you identify where these opportunities at their maximum and most likeliho
 
 ## Client, Study Goals & Project Plan:
 
-Study Goals: 
-This study attempts to assess the financial real estate valuation impact of hurricanes and attempts to identify undervalued property post-devastation for the purposes of renovation and reinvestment. The plan to address this impact will follow the core assumptions of the argument which are listed below along with a plan on how to validate those assumptions.
+This study attempts to assess the financial real estate valuation of hurricanes and identify undervalued property post-devastation for the purposes of renovation and reinvestment. The plan to address this impact will follow the listed core assumptions laid out in the Project Plan, along with best starting points to validate those assumptions. 
 
+The general theory is as follows, home values decline after the impact of a major Hurricane due to wind, water and property damage. Catastropic damage to homes uncovered by National Flood Insurance are typically under-valued due to the owners lack of financial resources to rebuild, repair or remortgage and the corresponding damage. Next, by examining public record, the same homes impacted by the storm have recovered their value or a significant portion of their prior estimated list price, post-storm. By using these as features, and the extent of the damage, a ML model could successfully predict homes expected to be the most undervalued and the most likely to recover their value post-storm. 
 
-Project Plan
+Project Plan:
+
 Core Assumptions:
 1. Home values decline after the impact of a Hurricane. 
     1. If they do decline, the impact follows a predictable pattern, caused by the impact of the storm. 
@@ -50,14 +51,13 @@ Core Assumptions:
 Assumption Validation & Project Plan:
 
 Assumption 1- A & B:
-* Using hurricanes since 2000, study landfall and determine the radius data from landfall needed to be collected to assess a material impact. 
-* Using Zillow’s API of historic property values and public record sales and purchases, Zestimate values, study the before and after effects of the property market prior to and post-landfall. 
-* Determine if general rules can be applied between disaster areas regarding sale price of properties. 
+* Using hurricanes since 2000, study landfall and determine the radius from landfall needed to assess a material impact. 
+* Using Zillow’s API of historic property values and public record sales and purchases and Zestimate values. Study the before and after effects of the property market prior to and post-landfall. 
+* Determine if general rules can be applied between disaster areas regarding the sale price of properties. 
 
 Assumption 2- A & B:
-* Using Zillow’s API, looking forward in prices, how long do home prices take to recover or rebound after disasters?
+* Using Zillow’s API, looking forward in time regarding price, how long does it take the real estate market to recover their value after natural disasters?
 * To what extent are the homes entirely remodeled due to water damage?
-* Are there general rules of thumbs or opportunities ‘flipping’ houses?
 
 Assumption 3:
 * Based on the findings of past data, can it successfully be inferred that our model can identify properties with the highest expected ROI?
@@ -74,6 +74,6 @@ Data Required:
 
 The ethical considerations of arbitraging real estate in disaster scenarios leads itself to a natural discussion. Ultimately, damage from hurricanes are likely to materially impact the sale value of a property. Homeowners are likely to need financial relief to rebuild, which leads itself to seemingly-Faustian pacts between buyers, lenders and owners. Nothing prevents a homeowner from being ripped off on an uninsured home suffering from lack of flood insurance. It’s the homeowner who ultimately takes a loss on their property, so they aren't financially exploited. On the positive side, the tool could also increase the number of buyers in the market and lead to a net increase in demand for damaged properties.
 
-This tool could might be biased towards buying homes in low income neighborhoods, which are less likely to own flood insurance and are more likely to profitable just because the price of the home is low. There might not be a good way of addressing this.
+Important to note, this tool could be biased towards buying homes in low income neighborhoods, which are less likely to own flood insurance and are more likely to be profitable because the price of the home is low. This would need to be addressed prior to release. 
 
 Going forward, the application can be further built out to understand the long term impact of the economics of natural disasters on real estate. Disaster has a unique ability forcefully impact the results of normal pricing markets and the gap is ripe for a data driven company to stand-in and arbitrage the gaps. Recruitment of real estate investing companies and Angel Investors seeking to own portions of homes could help resolve the terrible implications of a Hurricane.
