@@ -36,6 +36,8 @@ How do you identify where these opportunities at their maximum and most likeliho
 Study Goals: 
 This study attempts to assess the financial real estate valuation impact of hurricanes and attempts to identify undervalued property post-devastation for the purposes of renovation and reinvestment. The plan to address this impact will follow the core assumptions of the argument which are listed below along with a plan on how to validate those assumptions.
 
+
+Project Plan
 Core Assumptions:
 1. Home values decline after the impact of a Hurricane. 
     1. If they do decline, the impact follows a predictable pattern, caused by the impact of the storm. 
