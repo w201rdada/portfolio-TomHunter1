@@ -20,7 +20,7 @@ A headline flashes, warning of the impending doom of the next category 5 hurrica
 | 4 | SANDY(Mid-Atlantic & NE US) | 2012 | 65,000,000,000| 
 | 5 | IRMA (FL) | 2017 | 50,000,000,000|
 
-Homes impacted by severe property damage, and not covered by flood insurance, creates an interesting but ethically vague opportunity. Since much of the economic impact can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations. This causes a spike in forecloses and sales of property below the market value pre-hurricane. [@noauthor_climate_nodate] Essentially creating three meaningul  opportunities: 
+Homes impacted by severe property damage, and not covered by flood insurance, creates an interesting but ethically vague opportunity. Since much of the economic impact can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations. This causes a spike in forecloses and sales of property below the market value pre-hurricane. [@kowitt_climate_2017] Essentially creating three meaningul  opportunities: 
 
 1. Angel Investing - An outside third party creates a short-term loan against a portion of the proceeds of the home’s future price. 
 2. Outright Ownership - A third party purchases properties outright, develops or renovates the land, rents the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and maintaining existing operations.
