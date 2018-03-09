@@ -50,12 +50,12 @@ Core Assumptions:
 
 Assumption Validation & Project Plan:
 
-Assumption 1- A & B:
+Assumption 1- i & ii:
 * Using hurricanes since 2000, study landfall and determine the radius from landfall needed to assess a material impact. 
 * Using Zillow’s API of historic property values and public record sales and purchases and Zestimate values. Study the before and after effects of the property market prior to and post-landfall. 
 * Determine if general rules can be applied between disaster areas regarding the sale price of properties. 
 
-Assumption 2- A & B:
+Assumption 2- i & ii:
 * Using Zillow’s API, looking forward in time regarding price, how long does it take the real estate market to recover their value after natural disasters?
 * To what extent are the homes entirely remodeled due to water damage?
 
