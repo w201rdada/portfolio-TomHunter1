@@ -43,9 +43,9 @@ Core Assumptions:
     1. If they do decline, the impact follows a predictable pattern, caused by the impact of the storm. 
     2. Any model of property damage can be inferred on future or independant Hurricane scenarios.
 2. Impacted US home values stabilize and increase 5-10 years after the impact of of a Hurricane.
-3. Renovations do not cost more than the price of the home.
-4. Homes sold prior to and post Hurricanes are ‘Profitable’.
-5. Property Valuation and Financial Model: There are two suggested methods of opportunities when investing in disaster properties. Can a model suggesting the expected sale price of a property be validated as successful?
+    1. Renovations do not cost more than the price of the home.
+    2. Homes sold prior to and post Hurricanes are ‘Profitable’.
+3. Property Valuation and Financial Model: There are two suggested methods of opportunities when investing in disaster properties. Can a model suggesting the expected sale price of a property be validated as successful?
 
 Assumption Validation & Project Plan:
 
