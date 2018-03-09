@@ -10,7 +10,7 @@ Natural Disasters, Land Speculation, Spatial Analytics, Development
 
 ## Opportunity in Crisis
 
-A headline flashes warning of the impending doom of the next category 5 hurricane barreling toward land near an urban Metropolitan area. In the short term, tens of thousands of people are predicted to be without power, water, food the necessities for survival. The hurricane's wake leaves short and long term catastrophic property damage due to water and wind, closure of financial ruin of local businesses or communities. To rebuild, economic development plans attempt to incentivize local businesses, property damage requiring new structures and the subsequent debt required to fund them put stress on the business to shake the impact. In the past decade, hurricanes Katrina, Harvey, Maria Sandy and Irma left in their wake an estimated 50 - 125 Billion dollars in damage per storm [@national_oceanic_and_atmospheric_administration_costliest_2018]. 
+A headline flashes, warning of the impending doom of the next category 5 hurricane, barreling toward land near an urban metropolitan area. In the short term, tens of thousands of people are predicted to be without power, water, food - the necessities for survival. The hurricane's wake leaves short- and long-term catastrophic property damage due to water and wind, and eventually closure or financial ruin of local businesses and communities. To rebuild, economic development plans attempt to incentivize local businesses by mitigating property damage requiring new structures. The subsequent debt required to fund them puts stress on the businesses to shake the impact. In the past decade, hurricanes Katrina, Harvey, Maria, Sandy, and Irma left in their wake an estimated 50 - 125 billion dollars in damage per storm [@national_oceanic_and_atmospheric_administration_costliest_2018].
 
 | RANK| NAME (IMPACTED AREA) | YEAR  | DAMAGE (U.S.) |
 | --- |-------------:| :-----:|:-----:|
@@ -20,43 +20,43 @@ A headline flashes warning of the impending doom of the next category 5 hurrican
 | 4 | SANDY(Mid-Atlantic & NE US) | 2012 | 65,000,000,000| 
 | 5 | IRMA (FL) | 2017 | 50,000,000,000|
 
-Homes uncovered by flood insurance, yet impacted by severe property damage creates an interesting, but ethically vague opportunity. Since much of the economic damage can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations, causing a spike in forecloses, sales of property below the market value pre-hurricane. [@noauthor_climate_nodate]
+Homes impacted by severe property damage, but not covered by flood insurance, creates an interesting but ethically vague opportunity. Since much of the economic impact can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations. This causes a spike in forecloses and sales of property below the market value pre-hurricane. [@noauthor_climate_nodate]
 
 This essentially creates two meaningful opportunities:
 
 
-1. Angel Investing- An outside third party crates a short loan against a portion of the proceeds of the home’s future price. 
-2. Outright Ownership- A third party can purchase these properties outright, develop the land, rent the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and doing something the business already does on a day-to-day basis.
+1. Angel Investing - An outside third party creates a short loan against a portion of the proceeds of the home’s future price.
+2. Outright Ownership - A third party can purchase these properties outright, develop the land, rent the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and maintaining existing operations.
 
-So how do you identify where these opportunities at their maximum and most likelihood of payout. 
+How do you identify where these opportunities at their maximum and most likelihood of payout? 
 
 ## Client, Study Goals & Project Plan:
-Client:
-This would be developed as a software as a service for real estate and angel investors. 
+Client: 
+This software would be developed as a service for real estate and angel investors.
 
-Study Goals:
-This study attempts to assess the financial real estate valuation impact of Hurricanes and attempts to identify undervalued property post-devastation for the purposes of renovation and reinvestment. The plan to address this impact will follow the core assumptions of the argument which are listed below along with a plan on how to validate those assumptions. 
+Study Goals: 
+This study attempts to assess the financial real estate valuation impact of hurricanes and attempts to identify undervalued property post-devastation for the purposes of renovation and reinvestment. The plan to address this impact will follow the core assumptions of the argument which are listed below along with a plan on how to validate those assumptions.
 
 Core Assumptions:
 1. Home values decline after the impact of a Hurricane. 
     1. If they do decline, the impact follows a predictable pattern, caused by the impact of the storm. 
     2. Any model of property damage can be inferred on future or independant Hurricane scenarios.
 2. Impacted US home values stabilize and increase 5-10 years after the impact of of a Hurricane.
-    3. Renovations do not cost more than the price of the home. 
-    4. Homes sold prior to and post Hurricanes are ‘Profitable’.
-3. Property Valuation and Financial Model: There are two suggested methods of opportunities when investing in disaster properties. Can a model suggesting the expected sale price of a property be validated as successful? 
+3. Renovations do not cost more than the price of the home.
+4. Homes sold prior to and post Hurricanes are ‘Profitable’.
+5. Property Valuation and Financial Model: There are two suggested methods of opportunities when investing in disaster properties. Can a model suggesting the expected sale price of a property be validated as successful?
 
 Assumption Validation & Project Plan:
 
 Assumption 1- A & B:
 * Using hurricanes since 2000, study landfall and determine the radius data from landfall needed to be collected to assess a material impact. 
-* Using Zillow’s API of historic property values and public record sales and purchases, zestimate values, study the before and after effects of the property market prior to and post Landfall. 
+* Using Zillow’s API of historic property values and public record sales and purchases, Zestimate values, study the before and after effects of the property market prior to and post-landfall. 
 * Determine if general rules can be applied between disaster areas regarding sale price of properties. 
 
 Assumption 2- A & B:
 * Using Zillow’s API, looking forward in prices, how long do home prices take to recover or rebound after disasters?
 * To what extent are the homes entirely remodeled due to water damage?
-* Are there general rules of thumbs or opportunities ‘flipping’ houses.
+* Are there general rules of thumbs or opportunities ‘flipping’ houses?
 
 Assumption 3:
 * Based on the findings of past data, can it successfully be inferred that our model can identify properties with the highest expected ROI?
@@ -71,8 +71,8 @@ Data Required:
 
 ## Ethical Considerations, Biases and Future Plans
 
-The ethical considerations of arbitraging real estate in disaster scenarios leads itself to a natural discussion. Ultimately, damage from hurricanes are likely to materially impact the sell value of a property. Homeowners are likely to need financial relief to rebuild, which leads itself to seemingly Faustian Pacts between buyers, lenders and owners. Nothing prevents a homeowner from being ripped off on uninsured home suffering from lack of flood insurance. It’s the homeowner who ultimately takes a loss on their property, so they aren't financially exploited. On the positive side, the tool could also increase the number of buyers in the market and lead to a net increase in demand for damaged properties.  
+The ethical considerations of arbitraging real estate in disaster scenarios leads itself to a natural discussion. Ultimately, damage from hurricanes are likely to materially impact the sale value of a property. Homeowners are likely to need financial relief to rebuild, which leads itself to seemingly-Faustian pacts between buyers, lenders and owners. Nothing prevents a homeowner from being ripped off on an uninsured home suffering from lack of flood insurance. It’s the homeowner who ultimately takes a loss on their property, so they aren't financially exploited. On the positive side, the tool could also increase the number of buyers in the market and lead to a net increase in demand for damaged properties.
 
-This tool could might be biased towards buying homes in low income neighborhoods, which are less likely to own flood insurance and are more likely to profitable just because the price of the home is low. There might not be a good way of addressing this. 
+This tool could might be biased towards buying homes in low income neighborhoods, which are less likely to own flood insurance and are more likely to profitable just because the price of the home is low. There might not be a good way of addressing this.
 
 Going forward, the application can be further built out to understand the long term impact of the economics of natural disasters on real estate. Disaster has a unique ability forcefully impact the results of normal pricing markets and the gap is ripe for a data driven company to stand-in and arbitrage the gaps. Recruitment of real estate investing companies and Angel Investors seeking to own portions of homes could help resolve the terrible implications of a Hurricane.
