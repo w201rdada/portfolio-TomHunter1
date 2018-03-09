@@ -6,7 +6,7 @@
 
 #### Keywords {-}
 
-Natural Disasters, Land Speculation, Spatial Analytics, Development
+Natural Disasters, Real Estate Speculation, Spatial Analytics
 
 ## Opportunity in Crisis
 
@@ -22,17 +22,16 @@ A headline flashes, warning of the impending doom of the next category 5 hurrica
 
 Homes impacted by severe property damage, but not covered by flood insurance, creates an interesting but ethically vague opportunity. Since much of the economic impact can be attributed to property damage, there are often property owners without the financial means to rebuild, or pay upkeep due to existing financial obligations. This causes a spike in forecloses and sales of property below the market value pre-hurricane. [@noauthor_climate_nodate]
 
-This essentially creates two meaningful opportunities:
+Essentially createing two meaningful opportunities:
 
+1. Angel Investing - An outside third party creates a short-term loan against a portion of the proceeds of the home’s future price.
+2. Outright Ownership - A third party purchases properties outright, develops or renovates the land, rents the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and maintaining existing operations.
 
-1. Angel Investing - An outside third party creates a short loan against a portion of the proceeds of the home’s future price.
-2. Outright Ownership - A third party can purchase these properties outright, develop the land, rent the property for 5-10 years effectively purchasing the home at a discount, increasing ROI and maintaining existing operations.
+Two key demographics of investors who might be potential clients for a service like this are real estate investment companies, real estate investment funds,  or angel investors.
 
 How do you identify where these opportunities at their maximum and most likelihood of payout? 
 
 ## Client, Study Goals & Project Plan:
-Client: 
-This software would be developed as a service for real estate and angel investors.
 
 Study Goals: 
 This study attempts to assess the financial real estate valuation impact of hurricanes and attempts to identify undervalued property post-devastation for the purposes of renovation and reinvestment. The plan to address this impact will follow the core assumptions of the argument which are listed below along with a plan on how to validate those assumptions.
