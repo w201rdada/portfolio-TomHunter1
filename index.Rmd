@@ -19,17 +19,13 @@ readLines('https://www.zotero.org/api/users/4672538/items/top?limit=25&format=bi
 
 # Welcome! {-}
 
-### Abstract: Self-Learning and Efficacy while Controlling for Personality Differences {#GritDistribution}
+### Abstract: Self-Learning and Efficacy while Controlling for Personality Differences {#abs1}
 
 Humans are motivated by a wide array of stimuli. Researchers like Angela Duckworth and Alfred Bandura, have demonstrated that specific human characteristics are the most predictive to goal completion. This study aims to design a customized application based on these characteristics to incentive to maintain motivation on education for students. Curated with content specifically developed for maintaining Grit and Self Efficacy. 
 
-### Abstract: Disaster Centric Real Estate Valuation (D-CREV) {#Disaster-Properties}
+### Abstract: Disaster Centric Real Estate Valuation (D-CREV) {#abs2}
 
 The devastation caused from recent hurricanes to metropoletan areas and a lack of coverage by National Flood Insurance creates an unusual real estate arbitrage opporunity. Uninsured flooded homes unable to renovate, sell marketly below prior estimated list prices due to damage from the storm. This study aims to examine public and private data sources to determine the validity of homes impacted by flooding from Hurricanes and if findings show they recover their value, the characteristics of these investments.
-
-### Abstract of my third cool idea {-}
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
 
 ## About the author {-}
 
